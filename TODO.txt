@@ -3,7 +3,7 @@ Flip LM4040
 Replace footprint of voltage regulator
 Triple check all the pinouts for the breakout boards
 Change the size of the footprint for the big cap on the battery charger
-Get rid of the cap on the voltage supervisor
+Get rid of the cap on the voltage supervisor (Not gonna have)
 Ask Lund if I need a voltage supervisor (Do we just pick a better battery)
 Only need 4 or 5 buttons
 Consider an actual battery connector (Ask Lund)
@@ -16,7 +16,7 @@ NMOS Pinout change
 Ask Lund if I need a voltage supervisor (Do we just pick a better battery)
 Do you want a JTAG connector?
 Should I put in Debugging pins?
-I plan on hiding most of the PCB under the 3D print. 
+I plan on hiding most of the PCB under the 3D print. NO. It's for EE display
 
 For the PCB design part:
 Make a ground plane
